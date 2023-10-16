@@ -1,6 +1,9 @@
 # Vue 3 + Vite 大屏可视化项目
 
-## [Vue3 大屏可视化项目预览链接] https://musir0216.github.io/BigDataVisualization0216/
+## [Vue3 大屏可视化项目预览链接] 
+Github：
+https://musir0216.github.io/BigDataVisualization0216/
+Gitee：
 https://musir0216.gitee.io/bigdatavisualization0216
 
 ## 项目介绍
